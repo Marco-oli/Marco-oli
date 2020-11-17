@@ -13,4 +13,4 @@ Meu nome é Marco Aurélio de Oliveira, tenho 28 anos, e sou apaixonado por Tecn
 - **Techs**: Html, Css, Javascript, React.js, React Native, Styled-Components entre outros. :blue_heart:
 - :books: Atualmente estudando **Redux** :heart:
 
-> :computer: [marco-oliveira.now.sh/](marco-oliveira.now.sh/) :eyes:
+> :computer: [https://marco-oliveira.now.sh/](https://marco-oliveira.now.sh/) :eyes:
