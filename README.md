@@ -1,16 +1,16 @@
-### Hi there 👋
+# Marco Oliveira :man_technologist:
 
-<!--
-**Marco-oli/Marco-oli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Marco-oli)](https://github.com/Marco-oli)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucas-bittencourt/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521964073491&text=Olá!)](https://api.whatsapp.com/send?phone=5521964073491&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcooli.pereira@gmail.com)](mailto:marcooli.pereira@gmail.com)
 
-Here are some ideas to get you started:
+## Olá, seja muito bem vindo! :raising_hand:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Marco Aurélio de Oliveira, tenho 28 anos, e sou apaixonado por Tecnologia e Programação.
+
+- Desenvolvedor Front-End na **Qconcursos** :computer:
+- **Techs**: Html, Css, Javascript, React.js, React Native, Styled-Components entre outros. :blue_heart:
+- :books: Atualmente estudando **Redux** :heart:
+
+> :computer: [marco-oliveira.now.sh/](marco-oliveira.now.sh/) :eyes:
