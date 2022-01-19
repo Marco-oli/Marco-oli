@@ -9,8 +9,8 @@
 
 Meu nome é Marco Aurélio de Oliveira, tenho 29 anos, e sou apaixonado por Tecnologia e Programação.
 
-- Desenvolvedor Front-End na **Sambatech** :computer:
+- Desenvolvedor Front-End na **Concrete Solutions** :computer:
 - **Techs**: Html, Css, Javascript, React.js, React Native, Styled-Components entre outros. :blue_heart:
-- :books: Atualmente estudando **Redux** :heart:
+- :books: Atualmente estudando **Typescript e React Native Testing Library** :heart:
 
 > :computer: [https://marco-oliveira.now.sh/](https://marco-oliveira.now.sh/) :eyes:
