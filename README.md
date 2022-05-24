@@ -7,9 +7,9 @@
 
 ## Olá, seja muito bem vindo! :raising_hand:
 
-Meu nome é Marco Aurélio de Oliveira, tenho 29 anos, e sou apaixonado por Tecnologia e Programação.
+Meu nome é Marco Aurélio de Oliveira, tenho 30 anos, e sou apaixonado por Tecnologia e Programação.
 
-- Desenvolvedor Front-End Mobile na **Accenture Brasil** :computer:
+- Desenvolvedor Front-End Mobile na **Onebrain** :computer:
 - **Techs**: Html, Css, Javascript, React.js, React Native, Styled-Components entre outros. :blue_heart:
 - :books: Atualmente estudando **Typescript e React Native Testing Library** :heart:
 
