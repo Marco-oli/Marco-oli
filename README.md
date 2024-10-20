@@ -9,7 +9,9 @@
 
 Meu nome é Marco Aurélio de Oliveira, tenho 32 anos, e sou apaixonado por Tecnologia e Programação.
 
-- Desenvolvedor Front-End Mobile na **Esportudo** :computer:
+# 🚀 Minhas Especialidades:
+
+- Desenvolvedor Front-End Mobile na **Nomad** :computer:
 - **Techs**: Html, Css, Javascript, React.js, React Native, Styled-Components, Typescript, Firebase entre outros. :blue_heart:
 - :books: Atualmente estudando **Testes Unitários com Jest e React Native Testing Library** :heart:
 
